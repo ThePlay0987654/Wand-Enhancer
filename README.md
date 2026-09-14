@@ -147,10 +147,10 @@ Update notifications are excluded by default. To compile them in locally, run `b
 
 ---
 ## 🖼️ Screenshots
-![1](./assets/screenshots/app1.png)
+![1](https://github.com/k1tbyte/Wand-Enhancer/blob/master/assetsassets/screenshots/app1.png)
 <div align='center'>
 
-![2](./assets/screenshots/app2.png)
+![2](https://github.com/k1tbyte/Wand-Enhancer/blob/master/assets/screenshots/app2.png)
 </div>
 
 
