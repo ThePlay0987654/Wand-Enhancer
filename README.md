@@ -1,5 +1,5 @@
 <div>
-credit to k1tbyte for this wonderful tools. </br> i just build the executable from github and upload it here.</br>
+credit to k1tbyte for this wonderful tools. </br> i just build the executable and upload it here.</br>
   </br>
 </div>
 
