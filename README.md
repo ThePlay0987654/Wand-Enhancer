@@ -1,7 +1,6 @@
-<div>
-credit to k1tbyte for this wonderful tools. </br> i just build the executable and upload it here.</br>
-  </br>
-</div>
+credit to [k1tbyte](https://github.com/k1tbyte) for this wonderful tools. </br>
+i just build the executable and upload it here.</br>
+
 
 <div align="center">
 
