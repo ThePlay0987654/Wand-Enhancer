@@ -1,6 +1,11 @@
+<div>
+credit to k1tbyte for this wonderful tools. </br> i just build the executable from github and upload it here.</br>
+  </br>
+</div>
+
 <div align="center">
 
-![logo](./assets/icon.svg)
+![logo](https://github.com/k1tbyte/Wand-Enhancer/blob/master/assets/icon.svg)
 
 # WandEnhancer
 
